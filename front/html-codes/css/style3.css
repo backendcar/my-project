@@ -1,0 +1,25 @@
+* {
+    color: blue;
+}
+
+
+/* body {
+    color: seagreen;
+} */
+
+#green {
+    color: green;
+}
+
+.red {
+    color: red;
+    font-size: 50px;
+}
+
+.font-size {
+    font-size: 40px;
+}
+
+p {
+    background: orange;
+}
